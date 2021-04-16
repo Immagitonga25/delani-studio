@@ -3,6 +3,11 @@
     background-size: cover;
     text-align: center;
     color: white;
-    padding: 200px 100px;
-    
+    padding: 200px 100px; 
+    background-position: center;  
+}
+.services {
+    text-align: center;
+    color: white;
+    padding: 120px 90px;
 }
