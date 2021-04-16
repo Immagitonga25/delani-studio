@@ -11,3 +11,13 @@
     color: white;
     padding: 120px 90px;
 }
+.about {
+    text-align: center;
+    background-color: whitesmoke;
+}
+.welcome-bold {
+    font-weight: bold;
+}
+.about-h {
+    font-weight: bold;
+}
