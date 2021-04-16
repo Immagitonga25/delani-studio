@@ -14,10 +14,49 @@
 .about {
     text-align: center;
     background-color: whitesmoke;
+    padding: 50px 20px;
 }
 .welcome-bold {
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.welcome-two {
     font-weight: bold;
 }
 .about-h {
     font-weight: bold;
+}
+.img {
+    padding-bottom: 50px;
+}
+.contact {
+    background-image: url(/assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 1284px;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 50px
+}
+.row-one {
+    width: 100%;
+}
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+.portfolio {
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+}
+.row-two{
+    width: 100%;
+}
+#row-one {
+    padding-bottom: 40px;
+}
+#row-two {
+    padding-bottom: 40px;
 }
