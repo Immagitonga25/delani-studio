@@ -33,6 +33,22 @@
     padding-top: 80px;
     padding-bottom: 0px;
 }
+.h4 {
+    font-size: 18px;
+    font-weight: bold;
+}
+.h5 {
+    font-size: 18px;
+}
+.product-hidden {
+    display: none;
+}
+.development-hidden {
+    display: none;
+}
+.design-hidden {
+    display: none;
+}
 .contact {
     background-image: url(/assets/backgrounds/c_image.jpg);
     background-size: cover;
