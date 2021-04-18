@@ -60,3 +60,26 @@
 #row-two {
     padding-bottom: 40px;
 }
+.contact-us {
+    font-weight: bold;
+}
+#contact-name {
+    width: 10cm;
+    background: transparent;
+    border-radius: 0px;
+}
+#contact-email {
+    width: 10cm;
+    background: transparent;
+    border-radius: 0px;
+}
+#contact-message {
+    width: 20cm;
+    height: 6cm;
+    background: transparent;
+    border-radius: 0px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
