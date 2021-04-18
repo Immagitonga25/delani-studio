@@ -67,19 +67,35 @@
     width: 10cm;
     background: transparent;
     border-radius: 0px;
+    color: white;
 }
 #contact-email {
     width: 10cm;
     background: transparent;
     border-radius: 0px;
+    color: white;
 }
 #contact-message {
     width: 20cm;
     height: 6cm;
     background: transparent;
     border-radius: 0px;
+    color: white;
 }
 .container {
     display: flex;
     justify-content: center;
+}
+#contact-name::placeholder {
+    color: white;
+}
+#contact-message::placeholder {
+    color: white;
+}
+#contact-email::placeholder {
+    color: white;
+}
+.btn {
+    background-color: red;
+    color: white;
 }
