@@ -39,17 +39,25 @@
     text-align: center;
     padding: 50px
 }
-.row-one {
-    width: 100%;
+.do {
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
 }
-.row {
-    display: flex;
-    justify-content: space-around;
+.what-we-do {
+    text-align: center;
 }
 .portfolio {
     text-align: center;
     font-weight: bold;
     padding: 20px;
+}
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+.row-one {
+    width: 100%;
 }
 .row-two{
     width: 100%;
