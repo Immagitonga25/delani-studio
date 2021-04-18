@@ -78,9 +78,19 @@
 }
 .row-one {
     width: 100%;
+    cursor: pointer;
+    color: white;
+}
+.row-one:hover {
+    opacity: 0.4;
 }
 .row-two{
     width: 100%;
+    cursor: pointer;
+    color: white;
+}
+.row-two:hover {
+    opacity: 0.4;
 }
 #row-one {
     padding-bottom: 40px;
