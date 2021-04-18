@@ -107,3 +107,11 @@
     background-color: red;
     color: white;
 }
+.icons {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.col-md-1 {
+    padding-right: 10px;
+}
