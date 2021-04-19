@@ -8,7 +8,7 @@ Delani Studio is a company made up of committed software developers who design, 
 * Open code editor
 * Open html live link in chrome
 ## Live link
-https://Immagitonga25.github.io/delani-studio/
+https://immagitonga25.github.io/delani-studio/
 ## Technologies Used
 * HTML
 * CSS
